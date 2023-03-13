@@ -1,0 +1,3 @@
+api_key='cb10cec101574fc1b4b87e531ebbe26a'
+pip install Flask
+pip install newsapi-python
